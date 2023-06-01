@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 Ola! eu sou o edvanderson Baborsa Lisboa! Atualmente estou estudando para certificações Azure AZ-204, AZ-104, AZ-305.
 
 Atualmente estou estudando para AZ-204 
-estou implementando um sistema immobiliario utilizando AzureFunctios,AzureApp, AzureContainer,CosmosDB, SqlService, Cache redis, EventGrid e menssageria.
+estou implementando um sistema immobiliario utilizando toda a estrutura da Azure para fixa os conhecimentos.
+repositorio Back-end: https://github.com/edvandersonLisboa/Immobile_back-end
+repositorio FrontEnd: https://github.com/edvandersonLisboa/Immobile_back-end
 
 Essas são as certificações que já possuo.
 <br>
-<labe>AZ-900</label>
-<img align="center"  height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
 
+<img align="center"  height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
+<label style="display:block">AZ-900</label>
+
+<br/>
 <div align="center">
   <a href="https://github.com/edvandersonLisboa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvandersonLisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
