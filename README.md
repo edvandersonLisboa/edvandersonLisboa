@@ -25,9 +25,9 @@ repositorio FrontEnd: https://github.com/edvandersonLisboa/Immobile_back-end
 
 Essas são as certificações que já possuo.
 <br/>
-<div width="200">
+<div >
 <div align="center">AZ-900</div>
-<img  height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
+<img  height="150" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
 </div>
 <br/>
 <div align="center">
