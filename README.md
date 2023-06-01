@@ -20,14 +20,14 @@ Ola! eu sou o edvanderson Baborsa Lisboa! Atualmente estou estudando para certif
 Atualmente estou estudando para AZ-204 
 estou implementando um sistema immobiliario utilizando toda a estrutura da Azure para fixa os conhecimentos.
 repositorio Back-end: https://github.com/edvandersonLisboa/Immobile_back-end
+<br/>
 repositorio FrontEnd: https://github.com/edvandersonLisboa/Immobile_back-end
 
 Essas são as certificações que já possuo.
-<br>
-<section style="display:flex; flex-direction:column;justify-content: center;">
+<br/>
+
 <label style="display:block">AZ-900</label>
 <img   height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
-</section>
 
 <br/>
 <div align="center">
