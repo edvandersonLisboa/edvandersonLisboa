@@ -22,6 +22,7 @@ estou implementando um sistema immobiliario utilizando AzureFunctios,AzureApp, A
 
 Essas são as certificações que já possuo.
 <br>
+<labe>AZ-900</label>
 <img align="center"  height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
 
 <div align="center">
