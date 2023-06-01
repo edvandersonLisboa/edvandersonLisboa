@@ -21,7 +21,7 @@ Atualmente estou estudando para AZ-204
 estou implementando um sistema immobiliario utilizando AzureFunctios,AzureApp, AzureContainer,CosmosDB, SqlService, Cache redis, EventGrid e menssageria.
 
 Essas são as certificações que já possuo.
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5d0bc89-1891-49a7-806f-830466c5eba7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d5d0bc89-1891-49a7-806f-830466c5eba7" data-share-badge-host="https://www.credly.com"></div>
 
 <div align="center">
   <a href="https://github.com/edvandersonLisboa">
