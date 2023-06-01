@@ -23,7 +23,7 @@ estou implementando um sistema immobiliario utilizando AzureFunctios,AzureApp, A
 Essas são as certificações que já possuo.
 <br>
 <labe>AZ-900</label>
-<img align="center"  height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
+<img align="center"  height="150" width="200" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
 
 <div align="center">
   <a href="https://github.com/edvandersonLisboa">
@@ -31,7 +31,7 @@ Essas são as certificações que já possuo.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvandersonLisboa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<-- Icones de linguagens-->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
